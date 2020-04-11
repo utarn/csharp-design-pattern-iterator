@@ -1,0 +1,13 @@
+C:\projects\dotnet\pattern-iterator\bin\Debug\netcoreapp3.1\pattern-iterator.exe
+C:\projects\dotnet\pattern-iterator\bin\Debug\netcoreapp3.1\pattern-iterator.deps.json
+C:\projects\dotnet\pattern-iterator\bin\Debug\netcoreapp3.1\pattern-iterator.runtimeconfig.json
+C:\projects\dotnet\pattern-iterator\bin\Debug\netcoreapp3.1\pattern-iterator.runtimeconfig.dev.json
+C:\projects\dotnet\pattern-iterator\bin\Debug\netcoreapp3.1\pattern-iterator.dll
+C:\projects\dotnet\pattern-iterator\bin\Debug\netcoreapp3.1\pattern-iterator.pdb
+C:\projects\dotnet\pattern-iterator\obj\Debug\netcoreapp3.1\pattern-iterator.csprojAssemblyReference.cache
+C:\projects\dotnet\pattern-iterator\obj\Debug\netcoreapp3.1\pattern-iterator.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\pattern-iterator\obj\Debug\netcoreapp3.1\pattern-iterator.AssemblyInfoInputs.cache
+C:\projects\dotnet\pattern-iterator\obj\Debug\netcoreapp3.1\pattern-iterator.AssemblyInfo.cs
+C:\projects\dotnet\pattern-iterator\obj\Debug\netcoreapp3.1\pattern-iterator.dll
+C:\projects\dotnet\pattern-iterator\obj\Debug\netcoreapp3.1\pattern-iterator.pdb
+C:\projects\dotnet\pattern-iterator\obj\Debug\netcoreapp3.1\pattern-iterator.genruntimeconfig.cache
